@@ -1,0 +1,103 @@
+{
+  "mandalas": [
+    {
+      "id": "1",
+      "name": "Mandala 1",
+      "suktas": [
+        {
+          "id": "1.1",
+          "name": "Agni Sukta",
+          "mantras": [
+            {
+              "id": "1.1.1",
+              "text_sanskrit": "अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम् ।",
+              "transliteration": "agnim īḷe purohitaṃ yajñasya devam ṛtvijam",
+              "audio": "https://archive.org/download/rigveda-recitation/agni_sukta.mp3",
+              "translation_link": "https://vedaweb.uni-koeln.de/rigveda/rv01001",
+              "deity": "Agni",
+              "source_attribution": "VedaWeb (Universität zu Köln)"
+            }
+          ]
+        },
+        {
+          "id": "1.2",
+          "name": "Indra Sukta (sample)",
+          "mantras": [
+            {
+              "id": "1.2.1",
+              "text_sanskrit": "इन्द्रं महान् वीर्यम् ।",
+              "transliteration": "indram mahān vīryam",
+              "audio": "https://archive.org/download/rigveda-recitation/indra_sukta.mp3",
+              "translation_link": "https://vedaweb.uni-koeln.de/rigveda/rv01002",
+              "deity": "Indra",
+              "source_attribution": "VedaWeb (Universität zu Köln)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Mandala 2",
+      "suktas": [
+        {
+          "id": "2.1",
+          "name": "Agni (M2 sample)",
+          "mantras": [
+            {
+              "id": "2.1.1",
+              "text_sanskrit": "अग्नये नमः ।",
+              "transliteration": "agnaye namaḥ",
+              "audio": "https://archive.org/download/rigveda-recitation/agni_m2.mp3",
+              "translation_link": "https://vedaweb.uni-koeln.de/rigveda/rv02001",
+              "deity": "Agni",
+              "source_attribution": "VedaWeb (Universität zu Köln)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Mandala 3",
+      "suktas": [
+        {
+          "id": "3.1",
+          "name": "Sukta (M3 sample)",
+          "mantras": [
+            {
+              "id": "3.1.1",
+              "text_sanskrit": "स नो देवयाना वयु॒ ।",
+              "transliteration": "sa no devayānā vayun",
+              "audio": "",
+              "translation_link": "https://vedaweb.uni-koeln.de/rigveda/rv03001",
+              "deity": "",
+              "source_attribution": "VedaWeb (Universität zu Köln)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Mandala 4",
+      "suktas": [
+        {
+          "id": "4.1",
+          "name": "Sukta (M4 sample)",
+          "mantras": [
+            {
+              "id": "4.1.1",
+              "text_sanskrit": "ऋचेरस्मिन्देवाः ।",
+              "transliteration": "ṛcer asmindevāḥ",
+              "audio": "",
+              "translation_link": "https://vedaweb.uni-koeln.de/rigveda/rv04001",
+              "deity": "",
+              "source_attribution": "VedaWeb (Universität zu Köln)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

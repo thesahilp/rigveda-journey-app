@@ -1,4 +1,4 @@
-# rigveda-journey-app
+# Rig Veda Journey Map
 
 Interactive prototype for the Rig Veda Hackathon.
 
